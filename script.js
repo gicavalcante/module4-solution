@@ -9,4 +9,4 @@
             helloSpeaker.speak(names[i]);
         }
     }
-}) ();
+})();
